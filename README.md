@@ -1,6 +1,4 @@
-===
-Config Files
-===
+# Config Files
 Jered Diego Linares
 
 # Bash
