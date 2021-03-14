@@ -1,8 +1,0 @@
-
-
-
-
-Jered Diego Linares
-
-
-
