@@ -1,27 +1,24 @@
+" Vim Config File
+" JD Linares
+" 14 Mar 2021
 
-vim config
+" Original
+inoremap jj <Esc>
 
+set visualbell 		"#: Flash the screen instead of beeping on errors.
+set noerrorbells	"#: Disable beep on errors.
 
-set background=dark: Use colors that suit a dark background.
+syntax on
+set number
 
-set autoindent: New lines inherit the indentation of previous lines.
+set wrap
+set linebreak
 
-set hlsearch: Enable search highlighting.
-set ignorecase: Ignore case when searching.
+set autoindent		"#: New lines inherit the indentation of previous lines.
+set hlsearch		"#: Enable search highlighting.
+set ignorecase		"#: Ignore case when searching.
+set laststatus=2	"#: Always display the status bar.
 
+set background=dark	"#: Use colors that suit a dark background.
 
-set laststatus=2: Always display the status bar.
-
-
-
-set noerrorbells: Disable beep on errors.
-set visualbell: Flash the screen instead of beeping on errors.
-
-
-
-
-
-
-
-
-set spell: Enable spellchecking.
+""set spell		"#Enable spellcheck
