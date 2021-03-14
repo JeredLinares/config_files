@@ -1,11 +1,11 @@
 Config Files
 Jered Diego Linares
 
-#Bash
+# Bash
 
-#VIM
+# VIM
 
-#Raspberry Pi
+# Raspberry Pi
 
 
 
