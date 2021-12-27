@@ -10,6 +10,9 @@ Objectives
 * Make it harder to hurt yourself
 * Improve speed
 
+## MacOS
+NOTE: Terminal Preferences runs the .bashrc. .bash_proifle works on MacOS, but I wanted all the files named ".bashrc"
+
 
 # VIM
 Objectives
