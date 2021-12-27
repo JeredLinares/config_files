@@ -1,10 +1,14 @@
 # Bash config
 # JD Linares
 # 14 Mar 2021
+# 27 Dec 2021
 
 set bell-style visual
+
+
+export CLICOLOR=1
 
 alias ls="ls --color=auto -Gla"
 alias mv="mv -i"
 
-
+cd 00.desktop
