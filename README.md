@@ -11,7 +11,7 @@ Objectives
 * Improve speed
 
 ## MacOS
-NOTE: Terminal Preferences runs the .bashrc. .bash_proifle works on MacOS, but I wanted all the files named ".bashrc"
+NOTE: Terminal Preferences runs the .bashrc. .bash_profile works on MacOS, but I wanted all the files named ".bashrc"
 
 
 # VIM
