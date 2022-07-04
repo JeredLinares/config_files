@@ -13,8 +13,8 @@ Objectives
 
 ## BASH config files
 * Invocation types
-* * login
-* * interactive
+	* login
+	* interactive
 
 ## MacOS
 NOTE: Terminal Preferences runs the .bashrc. .bash_profile works on MacOS, but I wanted all the files named ".bashrc"
