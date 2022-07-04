@@ -11,10 +11,17 @@ Objectives
 * Improve speed
 * Learn the BASH shell
 
-## BASH config files
+Notes:
 * Invocation types
 	* login
 	* interactive
+* When each config file is used
+	* ~/.bashrc
+		* Used by "screen"
+		* Used when non-interactive (e.g., running from a script)
+		* Used when interactive and non-login
+	* Priority at startup: /etc/profile -> ~/.bash_profile -> ~/.bash_login -> ~/.profile
+
 
 ## MacOS
 NOTE: Terminal Preferences runs the .bashrc. .bash_profile works on MacOS, but I wanted all the files named ".bashrc"
