@@ -1,10 +1,8 @@
 # Bash config
 # JD Linares
-# 14 Mar 2021
-# 27 Dec 2021
+# 14 Mar 2021	2022 07 08
 
 set bell-style visual
-
 
 export CLICOLOR=1
 
@@ -13,7 +11,7 @@ alias mv="mv -i"
 
 cd 00.desktop
 
-form_post="+%Y%m%d_%H%M"
+jnow="+%Y%m%d_%H%M"
 
 
 
