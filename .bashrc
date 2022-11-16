@@ -1,6 +1,6 @@
 # Bash config
 # JD Linares
-# 14 Mar 2021	2022 07 08
+# 14 Mar 2021	2022 11 16
 
 set bell-style visual
 
