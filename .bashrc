@@ -9,8 +9,6 @@ export CLICOLOR=1
 alias ls="ls --color=auto -Gla"
 alias mv="mv -i"
 
-cd 00.desktop
-
 jnow="+%Y%m%d_%H%M"
 
 
