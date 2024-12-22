@@ -1,17 +1,19 @@
-# Config Files
-```
+# System Files
 Author: JD Linares
 Created: 14 Mar 2021
-Updated:  4 July 2022
-```
+Updated:  2024 12 22
 
+## Public Keys
+- Server
+- Mac  
+- PC
+
+## Configuation Files
 # BASH
-Objectives
-* Make it harder to hurt yourself
-* Improve speed
-* Learn the BASH shell
+My bash customization file  
 
-Notes:
+NOTES:   
+* Terminal Preferences runs the .bashrc. .bash_profile works on MacOS, but I wanted all the files named ".bashrc"
 * Invocation types
 	* login
 	* interactive
@@ -22,14 +24,7 @@ Notes:
 		* Used when interactive and non-login
 	* Priority at startup: /etc/profile -> ~/.bash_profile -> ~/.bash_login -> ~/.profile
 
-
-## MacOS
-NOTE: Terminal Preferences runs the .bashrc. .bash_profile works on MacOS, but I wanted all the files named ".bashrc"
-
-
 # VIM
-Objectives
-* Improve speed
-
+My VIM customization file
 
 
