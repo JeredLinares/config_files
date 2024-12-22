@@ -1,17 +1,24 @@
 " Vim Config File
 " JD Linares
-" 14 Mar 2021 2022.07.08
+" Created: 14 Mar 2021
+" Updated: 2024 12 22
 
+
+" Navigation
+" Escape key is harder to reach than a jj double tap
 " jj initally leared from Matox Beckman
 inoremap jj <Esc>	"	Insert mode non-recursive
 "vnoremap jj <Esc>	" 	Visual mode non-recursive
 
+
+" Feebback
 set visualbell 		" 	Flash the screen instead of beeping on errors.
 set noerrorbells	" 	Disable beep on errors.
 
+" Programming
 syntax on			"	Show language syntax
-"set number			" 	Show absolute line numbering
-set number relativenumber	" 	Show relative line numbering
+set number			" 	Show absolute line numbering
+"set number relativenumber	" 	Show relative line numbering
 
 set wrap		"	Wrap text to window size
 set linebreak		"	Break line at word end
