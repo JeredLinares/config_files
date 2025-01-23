@@ -12,4 +12,5 @@ alias mv="mv -i"
 jnow="+%Y%m%d_%H%M"
 
 
+TZ='America/New_York'; export TZ
 
